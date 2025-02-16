@@ -50,7 +50,7 @@ export class SpaceEntity {
     ];
 
     spaceMaterial.reflectionTexture = new CubeTexture(
-      '/textures/space/space',
+      'textures/space/space',
       scene,
       extensions
     );
