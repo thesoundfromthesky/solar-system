@@ -1,0 +1,10 @@
+{
+  "name": "solar-system-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/solar-system-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["solar-system"],
+  "// targets": "to see all targets run: nx show project solar-system-e2e --web",
+  "targets": {}
+}
